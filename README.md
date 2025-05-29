@@ -25,4 +25,4 @@ Ce dépôt GitHub constitue une preuve publique datée de la titularité des dro
 ## Contact
 
 Pour demande d'autorisation :  
-ton-email@example.com
+jayapicsou1@gmail.com
