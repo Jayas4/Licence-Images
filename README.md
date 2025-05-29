@@ -4,11 +4,12 @@
 
 ## Logo
 
-![Logo TechAssist](https://techassist.fun/assets/images/TechAssistlogosouslicence.png)
+<p align="center"> <img src="https://techassist.fun/assets/images/TechAssistlogosouslicence.png" width="500" height="auto" /> </p>
 
-## Description
 
-Ce logo est la propriété exclusive de Jayas4. Toute reproduction, copie, modification, distribution, diffusion ou utilisation, partielle ou totale, est **strictement interdite** sans autorisation écrite préalable.
+## Propriété et création
+
+Ce logo a été **créé intégralement par Jayas4**. Toute reproduction, copie, modification, distribution, diffusion ou utilisation, partielle ou totale, est **strictement interdite** sans autorisation écrite préalable.
 
 ## Conditions d'utilisation
 
