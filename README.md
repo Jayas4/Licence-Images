@@ -2,9 +2,13 @@
 
 © 2025 Jayas4. Tous droits réservés.
 
+## Logo
+
+![Logo TechAssist](https://techassist.fun/assets/images/TechAssistlogosouslicence.png)
+
 ## Description
 
-Ce logo (https://techassist.fun/assets/images/TechAssistlogosouslicence.png) est la propriété exclusive de Jayas4. Toute reproduction, copie, modification, distribution, diffusion ou utilisation, partielle ou totale, est **strictement interdite** sans autorisation écrite préalable.
+Ce logo est la propriété exclusive de Jayas4. Toute reproduction, copie, modification, distribution, diffusion ou utilisation, partielle ou totale, est **strictement interdite** sans autorisation écrite préalable.
 
 ## Conditions d'utilisation
 
@@ -20,4 +24,4 @@ Ce dépôt GitHub constitue une preuve publique datée de la titularité des dro
 ## Contact
 
 Pour demande d'autorisation :  
-jayapicsou1@gmail.com
+ton-email@example.com
