@@ -6,6 +6,9 @@
 
 <p align="center"> <img src="https://techassist.fun/assets/images/TechAssistlogosouslicence.png" width="500" height="auto" /> </p>
 
+Bannière : 
+
+<p align="center"> <img src="https://techassist.fun/assets/images/card2.png" width="500" height="auto" /> </p>
 
 ## Propriété et création
 
